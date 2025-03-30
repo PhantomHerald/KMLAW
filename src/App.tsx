@@ -1,14 +1,14 @@
 import React from 'react';
-import Navbar from './components/Navbar';
-import Background from './components/Background';
-import Hero from './components/Hero';
-import PracticeAreas from './components/PracticeAreas';
-import Team from './components/Team';
-import Cases from './components/Cases';
-import News from './components/News';
-import Blog from './components/Blog';
-import Careers from './components/Careers';
-import Contact from './components/Contact';
+import Navbar from './components/Navbar.tsx';
+import Background from './components/Background.tsx';
+import Hero from './components/Hero.tsx';
+import PracticeAreas from './components/PracticeAreas.tsx';
+import Team from './components/Team.tsx';
+import Cases from './components/Cases.tsx';
+import News from './components/News.tsx';
+import Blog from './components/Blog.tsx';
+import Careers from './components/Careers.tsx';
+import Contact from './components/Contact.tsx';
 
 export default function App() {
   return (
